@@ -1,6 +1,6 @@
 # Cómo subir tu paquete a PyPI
 
-![pypi_image](pypi.png)
+<img src="pypi.png" width="500">
 
 Yo les voy a mostrar lo que a mí me funcionó después de intentar de muchas formas distintas.
 
